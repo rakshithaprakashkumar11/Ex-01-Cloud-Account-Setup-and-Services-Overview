@@ -2,17 +2,18 @@
 
 ## Aim: 
 To create an AWS cloud account and explore its various services. 
-## Procedure: 
-1. Create an AWS Account 
-○ Go to AWS Official Website. 
-○ Click on "Create an AWS Account" and enter the required details (email, 
-password, account name). 
+## Procedure:
+
+1. Create an AWS Account
+    
+  ○ Go to AWS Official Website. 
+  ○ Click on "Create an AWS Account" and enter the required details (email, password, account name). 
 CSE 
 ○ Choose "Personal" or "Business" account type and provide billing information. 
 ○ Complete identity verification using a phone number. 
 ○ Select a support plan (Free Tier recommended for beginners). 
 ○ Log in to the AWS Management Console. 
-2. Exploring AWS Services 
+3. Exploring AWS Services 
 ○ Navigate through the AWS Management Console to explore services. 
 ○ Access different categories such as Compute, Storage, Database, Networking, 
 and Security. 
